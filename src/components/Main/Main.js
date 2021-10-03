@@ -2,7 +2,7 @@ import React, {useEffect, useState} from 'react';
 import {Link} from "react-router-dom";
 import axios from "axios";
 import './main.css'
-import logo from '../../images/logo.png'
+import logo from '../../assets/images/logo.png'
 
 
 
